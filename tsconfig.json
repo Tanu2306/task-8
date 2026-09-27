@@ -1,0 +1,9 @@
+{
+  "extends": "./week8-task-manager-fullstack/frontend/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./week8-task-manager-fullstack/frontend"
+  },
+  "include": [
+    "week8-task-manager-fullstack/frontend/src"
+  ]
+}

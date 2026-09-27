@@ -1,0 +1,28 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node / Frontend Build
+node_modules/
+dist/
+build/
+coverage/
+.env
+.env.local
+
+# Java / Maven Build
+backend/target/
+backend/.mvn/
+*.class
+*.jar
+*.war
+
+# Database
+*.db
+*.sqlite
